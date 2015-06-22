@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Desktop/hibernate/hibernate-release-4.3.10.Final/lib" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/hibernate/hibernate-release-4.3.10.Final/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/hibernate/hibernate-release-4.3.10.Final/lib" recursive="false" />
+  </library>
+</component>
